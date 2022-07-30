@@ -6,4 +6,4 @@ A simple 3d printed clip to hold long backpack straps so they don't flap around.
 
 This model fits about three layers of 1-inch wide straps. It prints in under 10 minutes - I used PETG but PLA would probably work just fine.
 
-[**Download 3MF File**](./clip.3MF)
+**Download**: [3MF](./clip.3MF), [STL](./clip.STL)
